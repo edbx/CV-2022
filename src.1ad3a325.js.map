@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["document","querySelector","style","cssText"],"mappings":";;;AAEA,aAFA,QAAA,oBAEAA,SAASC,cAAc,MAAMC,MAAMC,QAAU","file":"src.1ad3a325.js","sourceRoot":"../src","sourcesContent":["import './sass/main.scss';\n\ndocument.querySelector('h1').style.cssText = \"background: #010101\";"]}
